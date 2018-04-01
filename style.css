@@ -1,0 +1,196 @@
+
+  body {
+    background-color: #CBCBCB;
+  }
+
+
+   /*Title*/
+
+
+   .pageTitle {
+     display: flex;
+     margin-top: 20px;
+     margin-left: 40px;
+     font-family: 'Orbitron', sans-serif;
+     background-color: #58AF00;
+     width: 880px;
+     border-radius: 0px 25px 0px 0px;
+     border: 4px solid white;
+   }
+
+   .title {
+     font-size: 50px;
+     margin-top: 60px;
+     padding-left: 15px;
+     color: #DFDFDF;
+     text-shadow: 2.5px 2.5px black;
+     text-decoration: none;
+     letter-spacing: 1px;
+   }
+
+   .nfllogo {
+     padding-top: 8px;
+     height: 130px;
+   }
+
+   .tagLine {
+     font-size: 20px;
+     font-family: 'Audiowide', cursive;
+     background-color: #2B75D3;
+     width: 540px;
+     border: 4px solid white;
+     padding-left: 15px;
+     padding-right: 15px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     margin-left: 75px;
+     margin-top: -22.5px;
+     margin-bottom: 60px;
+     color: #D6D6D6;
+   }
+
+   .footer {
+     font-size: 12px;
+     font-family: 'Audiowide', cursive;
+     text-align: center;
+     margin-bottom: 15px;
+   }
+
+
+   /*Index Page*/
+
+
+   .menuHeader {
+     text-align: center;
+     text-decoration: underline;
+     font-size: 38px;
+     font-family: 'Audiowide', cursive;
+     margin-bottom: 40px;
+   }
+
+   .sections {
+     margin-left: 120px;
+     margin-top: 30px;
+     font-size: 24px;
+     font-family: 'Orbitron', sans-serif;
+     margin-bottom: 20px;
+   }
+
+   .draftLink {
+     font-size: 22px;
+     margin-left: 100px;
+     text-decoration: underline;
+     font-family: 'Play', sans-serif;
+     color: #084DCD;
+     cursor: pointer;
+     margin-bottom: -10px;
+   }
+
+   .draftLink:hover {
+     color: #CD0808;
+   }
+
+   .menuSelect {
+     margin-bottom: 270px;
+   }
+
+
+   /*Draft/Predictions Pages*/
+
+
+   .subTitle {
+     margin-left: 100px;
+     font-size: 38px;
+     font-family: 'Orbitron', sans-serif;
+     margin-top: 20px;
+     margin-bottom: 40px;
+   }
+
+   .roundTitle {
+     margin-left: 140px;
+     text-decoration: underline;
+     font-size: 28px;
+     font-family: 'Orbitron', sans-serif;
+   }
+
+   .draftRounds {
+     font-family: 'Rajdhani', sans-serif;
+     margin-left: 100px;
+     margin-bottom: 5px;
+   }
+
+   .pickBlock {
+     background-color: white;
+     padding-left: 50px;
+     padding-top: 25px;
+     padding-bottom: 10px;
+     margin-bottom: 25px;
+     margin-left: -60px;
+     width: 60vw;
+     border: 2px solid #404040;
+   }
+
+   .selections {
+     margin-bottom: 10px;
+     font-size: 22px;
+     font-weight: bolder;
+   }
+
+   .images {
+     display: flex;
+     width: 55vw;
+     justify-content: space-between;
+     margin-top: 25px;
+     margin-bottom: 35px;
+   }
+
+   .nflLogo {
+     margin-top: auto;
+     margin-bottom: auto;
+     width: 20vw;
+   }
+
+   .nfllogoimg {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     height: auto;
+   }
+
+   .playerPic {
+     margin-top: auto;
+     margin-bottom: auto;
+   }
+
+   .playerimg {
+     width: 25vw;
+     height: auto;
+     border: 2px solid black;
+     float: right;
+   }
+
+   .collegeLogo {
+     margin-top: auto;
+     margin-bottom: auto;
+   }
+
+   .collegelogoimg {
+     width: 10vw;
+     height: auto;
+     max-height: 13vw;
+   }
+
+   .roundLink {
+     font-size: 43px;
+     text-decoration: underline;
+     font-family: 'Rajdhani', sans-serif;
+     color: #084DCD;
+     cursor: pointer;
+     margin-top: 40px;
+     margin-bottom: 40px;
+     width: 260px;
+   }
+
+   .roundLink:hover {
+     color: #CD0808;
+   }
