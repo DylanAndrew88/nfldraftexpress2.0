@@ -173,15 +173,20 @@
      float: right;
    }
 
-   .collegeLogo {
-     margin-top: auto;
-     margin-bottom: auto;
+   .pickBlurb {
+     border: 3px solid black;
+     width: 50vw;
+     background-color: white;
+     font-size: 20px;
+     padding-left: 10px;
+     margin-left: -40px;
+     margin-top: -15px;
+     margin-bottom: 40px;
    }
 
-   .collegelogoimg {
-     width: 10vw;
-     height: auto;
-     max-height: 13vw;
+   .pickP {
+     margin-left: 20px;
+     margin-right: 20px;
    }
 
    .roundLink {
